@@ -1,30 +1,57 @@
-# 👋 Hi, I'm Khaerul Anam
+<h1 align="center">👋 Hi, I'm Khaerul Anam</h1>
 
-## About Me
+<p align="center">
+  🧑‍💻 Junior Developer | 🌐 Web & Mobile Enthusiast | 🎯 Always Learning
+</p>
 
-I'm a junior developer passionate about building web and mobile applications. My main stack is JavaScript, especially with the Next.js framework, but I also work with:
+---
 
-- **JavaScript**: Next.js, React JS, React Native, Express JS
+## 🚀 About Me
+
+I'm a **Junior Developer** with a deep passion for building responsive and engaging **web** and **mobile** applications. My core stack is based on **JavaScript**, especially with the **Next.js** ecosystem.
+
+### 🛠️ Tech Stack
+
+- **JavaScript**: Next.js, React.js, React Native, Express.js
 - **PHP**: Laravel, CodeIgniter 4 (CI4)
+- **Tools**: Git, VS Code, Postman, Figma
 
 ---
 
-## Featured Project: Tama Game
+## 🎮 Featured Project — Tama Game
 
-I built the **Tama Game** project with:
+A multi-platform game application built with modern technologies:
 
-- **Next.js** for the Dashboard Frontend
-- **React Native** for the Mobile Frontend
-- **Express JS** for the Backend
+- ⚙️ **Backend**: Express.js  
+- 📱 **Mobile App**: React Native  
+- 🖥️ **Dashboard**: Next.js  
 
----
-
-## Fun Facts
-
-- 🎧 Favorite Song: "Enjoy The Silence"
-- 🎮 Hobbies: Listening to music, watching anime, reading comics, and playing games
-- 🤫 Fun Fact: I can get a little crazy if I'm lonely!
+> 🚧 *Currently developing & improving user experience and performance.*
 
 ---
 
-Feel free to check out my projects or connect with me!
+## 📊 Coding Activity
+
+<!-- WakaTime Stats -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaerulanam&layout=compact&hide_title=true&langs_count=6&bg_color=0d1117&text_color=ffffff)
+
+---
+
+## 🤹 Fun Facts
+
+- 🎧 **Favorite Song**: *Enjoy The Silence*
+- 🕹️ **Hobbies**: Listening to music, watching anime, reading manga & playing games
+- 🤫 **Secret Weapon**: I go a little crazy when I'm lonely 😄
+
+---
+
+## 🔗 Let's Connect!
+
+- 📫 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+- 💬 Let's chat: [LinkedIn](https://linkedin.com/in/yourprofile) | [Instagram](https://instagram.com/yourusername)
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+
