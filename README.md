@@ -33,8 +33,7 @@ A multi-platform game application built with modern technologies:
 ## 📊 Coding Activity
 
 <!-- WakaTime Stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaerulanam&layout=compact&hide_title=true&langs_count=6&bg_color=0d1117&text_color=ffffff)
-
+<figure><embed src="https://wakatime.com/share/@Aeruuu/c2a6c730-2eef-4407-86b2-7f24822abbbc.svg"></embed></figure>
 ---
 
 ## 🤹 Fun Facts
