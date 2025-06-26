@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Khaerul Anam
 
-<!--
-**anamK4923/anamK4923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a junior developer passionate about building web and mobile applications. My main stack is JavaScript, especially with the Next.js framework, but I also work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **JavaScript**: Next.js, React JS, React Native, Express JS
+- **PHP**: Laravel, CodeIgniter 4 (CI4)
+
+---
+
+## Featured Project: Tama Game
+
+I built the **Tama Game** project with:
+
+- **Next.js** for the Dashboard Frontend
+- **React Native** for the Mobile Frontend
+- **Express JS** for the Backend
+
+---
+
+## Fun Facts
+
+- 🎧 Favorite Song: "Enjoy The Silence"
+- 🎮 Hobbies: Listening to music, watching anime, reading comics, and playing games
+- 🤫 Fun Fact: I can get a little crazy if I'm lonely!
+
+---
+
+Feel free to check out my projects or connect with me!
